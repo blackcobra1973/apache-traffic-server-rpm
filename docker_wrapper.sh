@@ -1,6 +1,6 @@
 #!/bin/sh
 set -eu
-imagename=apachetrafficserver6rpm
+imagename=TrafficServerRPM
 
 usage() {
   cat <<'EOF' 1>&2
