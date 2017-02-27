@@ -2,7 +2,7 @@
 set -eu
 
 # NOTE: Edit project_name and rpm_name.
-copr_project_name=${COPR_PROJ_NAME}
+copr_project_name=TrafficServer
 rpm_name=trafficserver
 arch=x86_64
 
