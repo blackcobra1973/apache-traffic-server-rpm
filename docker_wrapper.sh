@@ -1,6 +1,6 @@
 #!/bin/sh
 set -eu
-imagename=TrafficServerRPM
+imagename=trafficserverrpm
 
 usage() {
   cat <<'EOF' 1>&2
