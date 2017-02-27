@@ -3,3 +3,4 @@
 export COPR_LOGIN=_your_login_here_
 export COPR_USERNAME=_your_username_here_
 export COPR_TOKEN=_your_token_here_
+export COPR_PROJ_NAME=_your_project_name_
